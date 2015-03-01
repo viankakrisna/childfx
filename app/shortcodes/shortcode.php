@@ -1,17 +1,5 @@
 <?php
-/**
- * childfx
- *
- * childfx Theme by Calibrefx Team
- *
- * @package     childfx
- * @author      Calibrefx Team
- * @link        http://www.calibrefx.com/
- * @since       Version 1.0
- * @filesource 
- *
- * @package childfx
- */
+//Below are the sample how to create a shortcode
 
 /*add_shortcode( 'read_more', 'cm_readmore_button');
 function cm_readmore_button($atts, $content = ''){

@@ -17,9 +17,7 @@ add_action('admin_init', 'childfx_load_admin_scripts');
  * This function loads the admin CSS files
  */
 function childfx_load_admin_scripts() {
-    wp_enqueue_style('childfx-admin', CHILD_CSS_URL . '/admin.style.css');
-
-    wp_enqueue_script('childfx-admin', CHILD_JS_URL . '/admin.functions.js', array('jquery'));
+	
 }
 
 

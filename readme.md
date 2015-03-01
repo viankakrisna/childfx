@@ -11,7 +11,7 @@ This is Calibrefx child themes Bootstrap
 
 ## Installation Instructions
 
-1. [Download calibrefx from github] (https://github.com/calibreworks/calibrefx/archive/master.zip)
+1. [Download calibrefx from github] (https://github.com/calibreworks/calibrefx/archive/2.0.0.zip)
 2. [Download this theme] (https://github.com/calibreworks/childfx/archive/master.zip)
 3. Upload the themes folder via FTP to your `wp-content/themes/` directory.
 4. Go to your WordPress dashboard and select Appearance.
